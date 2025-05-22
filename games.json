@@ -1,0 +1,94 @@
+{
+  "result": [
+    {
+      "id": "1",
+      "name": "Genshin Impact",
+      "genre": "Action RPG",
+      "developer": "miHoYo",
+      "release_year": "2020",
+      "rating": "4.6",
+      "image_url": "https://fastcdn.hoyoverse.com/content-v2/plat/124031/5d2ba4371115d26de4c574b28311aed8_3702783840928167787.jpeg"
+    },
+    {
+      "id": "2",
+      "name": "Valorant",
+      "genre": "FPS",
+      "developer": "Riot Games",
+      "release_year": "2020",
+      "rating": "4.4",
+      "image_url": "https://cdn.sortiraparis.com/images/1001/66131/1103306-valorant-le-jeu-video-signe-riot-games-est-disponible.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Minecraft",
+      "genre": "Sandbox",
+      "developer": "Mojang",
+      "release_year": "2011",
+      "rating": "4.8",
+      "image_url": "https://upload.wikimedia.org/wikipedia/id/thumb/f/f9/Minecraft_cover_%28new%29.jpg/375px-Minecraft_cover_%28new%29.jpg"
+    },
+    {
+      "id": "4",
+      "name": "PUBG Mobile",
+      "genre": "Battle Royale",
+      "developer": "Tencent Games",
+      "release_year": "2018",
+      "rating": "4.3",
+      "image_url": "https://img.antaranews.com/cache/1200x800/2021/04/08/pubg-mobile-1605171759.jpg.webp"
+    },
+    {
+      "id": "5",
+      "name": "Mobile Legends",
+      "genre": "MOBA",
+      "developer": "Moonton",
+      "release_year": "2016",
+      "rating": "4.2",
+      "image_url": "https://cdn.popculture.id/wp-content/uploads/2021/12/moba1-1080x563.png"
+    },
+    {
+      "id": "6",
+      "name": "Call of Duty: Mobile",
+      "genre": "FPS",
+      "developer": "TiMi Studio",
+      "release_year": "2019",
+      "rating": "4.5",
+      "image_url": "https://upload.wikimedia.org/wikipedia/id/0/07/CODM_logo.png"
+    },
+    {
+      "id": "7",
+      "name": "Free Fire",
+      "genre": "Battle Royale",
+      "developer": "Garena",
+      "release_year": "2017",
+      "rating": "4.1",
+      "image_url": "https://asset.kompas.com/crops/-qfYPDY9h2x2QmPZjNuUu2T8qpE=/151x0:1231x720/1200x800/data/photo/2020/06/25/5ef405986c087.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Clash of Clans",
+      "genre": "Strategy",
+      "developer": "Supercell",
+      "release_year": "2012",
+      "rating": "4.7",
+      "image_url": "https://supercell.com/images/4c0ab0c1fb2958e72103f81632fee096/og_clashofclans.f3149338.webp"
+    },
+    {
+      "id": "9",
+      "name": "Among Us",
+      "genre": "Party",
+      "developer": "Innersloth",
+      "release_year": "2018",
+      "rating": "4.4",
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/9/9a/Among_Us_cover_art.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Apex Legends",
+      "genre": "Battle Royale",
+      "developer": "Respawn Entertainment",
+      "release_year": "2019",
+      "rating": "4.5",
+      "image_url": "https://upload.wikimedia.org/wikipedia/id/d/db/Apex_legends_cover.jpg"
+    }
+  ]
+}
